@@ -1,5 +1,4 @@
 # 💫 About Me :
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <img src="SDbeachImg.jpg" alt="San Diego beach"
        style="max-width: 300px; width: 100%; height: auto; flex-shrink: 0; object-fit: contain;"/>
@@ -16,8 +15,6 @@ I have a growing interest in cutting-edge fields such as quantum computing and f
 If you enjoy talking about technology, outdoor adventures, or great books, I would love to connect and share ideas.
     </p>
   </div>
-
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyapasupuleti) 
 
