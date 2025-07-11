@@ -1,6 +1,6 @@
 # 💫 About Me :
 
-  <img src="SDbeachImg.jpg" alt="San Diego beach"
+  <img src="SDbeachImg.jpg" alt="San Diego beach" align="left"
        style="max-width: 300px; width: 100%; height: auto; flex-shrink: 0; object-fit: contain;"/>
 
   <div style="flex: 1; min-width: 200px;">
