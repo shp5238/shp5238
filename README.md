@@ -1,6 +1,5 @@
-## Hi there 👋
-
-# 💫About Me :
+# 💫 About Me :
+Hi there 👋
 I am currently pursuing a double major in Computer Science and Physics at the University of San Diego, with a minor in math that complements my love for numbers and problem solving. I enjoy exploring how complex concepts from these fields come together to create meaningful software that makes a difference.
 
 My journey as a software developer has taken me through a variety of projects, from building mobile apps to designing user-friendly websites. I find joy in blending creativity with technical skills, whether I am working with React Native, writing Linux shell scripts, or making sure a website looks great on any device. When I am not coding, I like to spend time outdoors hiking, where nature teaches me patience and perseverance. Reading young adult fantasy novels also plays a big part in my life because the stories of adventurous heroes spark my imagination and inspire fresh ideas in my work.
@@ -22,7 +21,7 @@ If you enjoy talking about technology, outdoor adventures, or great books, I wou
 ![](https://github-trophies.vercel.app/?username=shp5238&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shp5238&icon=0&color=5)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=shp5238&color=984036&style=flat)
 
 
 
