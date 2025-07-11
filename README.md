@@ -1,7 +1,10 @@
 # 💫 About Me :
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="SDbeachImg.jpg" alt="San Diego beach" align="left" style="max-width: 300px; width: 100%; height: auto; flex-shrink: 0;">
-  <div style="flex: 1;">
+
+  <img <img src="SDbeachImg.jpg" alt="San Diego beach"
+       style="max-width: 300px; width: 100%; height: auto; flex-shrink: 0; object-fit: contain;"/>
+
+  <div style="flex: 1; min-width: 200px;">
     <p>
 Hi there 👋 <br>
 I am currently pursuing a double major in Computer Science and Physics at the University of San Diego, with a minor in math that complements my love for numbers and problem solving. I enjoy exploring how complex concepts from these fields come together to create meaningful software that makes a difference.
@@ -13,6 +16,7 @@ I have a growing interest in cutting-edge fields such as quantum computing and f
 If you enjoy talking about technology, outdoor adventures, or great books, I would love to connect and share ideas.
     </p>
   </div>
+
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyapasupuleti) 
@@ -32,7 +36,9 @@ If you enjoy talking about technology, outdoor adventures, or great books, I wou
 ---
 ![](https://komarev.com/ghpvc/?username=shp5238&color=984036&style=flat)
 
-<!-- future change: style=pixel -->
+<!-- future change: style=pixel
+<img src="SDbeachImg.jpg" alt="San Diego beach"  style="max-width: 300px; width: 100%; height: auto; flex-shrink: 0;">
+-->
 
 
 
