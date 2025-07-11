@@ -1,4 +1,6 @@
 # 💫 About Me :
+<img src="SDbeachImg.jpg" alt="San Diego beach" align="left" width="150" style="margin-right: 15px;"/>
+
 Hi there 👋
 I am currently pursuing a double major in Computer Science and Physics at the University of San Diego, with a minor in math that complements my love for numbers and problem solving. I enjoy exploring how complex concepts from these fields come together to create meaningful software that makes a difference.
 
