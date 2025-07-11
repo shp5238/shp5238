@@ -23,6 +23,7 @@ If you enjoy talking about technology, outdoor adventures, or great books, I wou
 ---
 ![](https://komarev.com/ghpvc/?username=shp5238&color=984036&style=flat)
 
+<> future change: style=pixel
 
 
 
